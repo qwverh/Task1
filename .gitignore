@@ -1,2 +1,4 @@
 .idea/
- src.iml
+src.iml
+src/pom.xml
+src/target/
