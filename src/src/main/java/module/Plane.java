@@ -5,8 +5,8 @@ public class Plane extends Transport {
 
     public Plane() {}
 
-    public Plane(String model, String year, int maxSpeed, String route) {
-        super(model, year, maxSpeed);
+    public Plane(String route, String yar, int maxSpeed) {
+        super(yar, "model", maxSpeed);
         this.route = route;
     }
     public void setRoute(String route) {
