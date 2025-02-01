@@ -16,6 +16,9 @@ public class Transport {
     public void displayInfo() {
         System.out.println("Model: " + model + " year: " + year + " maxSpeed: " + maxSpeed + " km/h");
     }
+    public void reeturnInt() {
+        System.out.println("можно получается");
+    }
     public void setModel(String model) {
         this.model = model;
     }

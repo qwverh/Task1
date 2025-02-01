@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         //Car x = new Car("asjdf", "343", 45, 34);
         //x.displayInfo();
-        //Track y = new Track("audi", "2000", 120, 4, 320, "Kазань - Питер");
+        Track y = new Track("audi", "2000", 120, 4, 320, "Kазань - Питер");
         //y.displayInfo();
         //y.Departure();
         //Auto z = new Auto("dgdsfg", "2122", 122, 2, 6);

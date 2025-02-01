@@ -3,7 +3,7 @@ package loginAndParol;
 import java.util.Scanner;
 
 public class Main {
-    private static final String ADMIN_LOGIN = "Admin@kpfu.com";
+    private static final String ADMIN_LOGIN = "Admivdfvdfvn@kpfu.com";
     private static final String ADMIN_PASSWORD = "imadmin_2006@";
     private static final String USER_LOGIN1 = "PotapovEgor@kpfu.com";
     private static final String USER_PASSWORD1 = "egorka_123)";
